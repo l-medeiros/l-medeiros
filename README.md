@@ -3,9 +3,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm passionate about software development and music\
-🔭 &nbsp;I’m currently working at Creditas as Backend Developer Intern\
+🔭 &nbsp;I’m currently working at Creditas as Backend Developer\
 🎓 &nbsp;I'm currently studying Science and Technology at UFABC (Universidade Federal do ABC)\
-✉️ &nbsp;You can shoot me an email at lucas.med.dev@gmail.com! I'll try to respond as soon as I can\
+✉️ &nbsp;You can shoot me an email at lucasan.1400@outlook.com! I'll try to respond as soon as I can\
 🌱 &nbsp;I’m currently learning more about Spring Framework
 <br>
 <img alt="Coding cat" src="./assets/coding-cat.gif" align="right"/>
